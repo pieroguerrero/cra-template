@@ -1,6 +1,6 @@
 {
   "name": "cra-template-tailwindcss-jsdoc",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "This is a CRA template",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,11 @@
     "cra-template",
     "react",
     "tailwindcss",
-    "jsdoc"
+    "jsdoc",
+    "clean",
+    "architecture",
+    "cra",
+    "reactjs"
   ],
   "author": "@pieroguerrero",
   "license": "ISC",
