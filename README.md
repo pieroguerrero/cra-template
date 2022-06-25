@@ -1,5 +1,5 @@
-# Custom template for Create React App desgined by @pieroguerrero
+# Custom template for Create React App
 
 This template includes:
 
-- TailwindCSS, ESLint, Prettier, Jest, JSDoc and React Router
+- TailwindCSS, ESLint, Prettier, Jest, JSDoc and React Router. Enjoy!
