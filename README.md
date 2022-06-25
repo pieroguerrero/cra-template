@@ -2,4 +2,5 @@
 
 This template includes:
 
-- TailwindCSS, ESLint, Prettier, Jest, JSDoc and React Router. Enjoy!
+- TailwindCSS, ESLint, Prettier, Jest, JSDoc and React Router.
+- It follows the CLEAN architecture, thus, contains empty folders so you can organize your code.
