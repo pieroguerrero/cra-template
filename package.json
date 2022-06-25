@@ -1,0 +1,22 @@
+{
+  "name": "cra-template",
+  "version": "1.0.0",
+  "description": "This is a CRA template creacted by @pieroguerrero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieroguerrero/cra-template.git"
+  },
+  "keywords": [
+    "cra-template"
+  ],
+  "author": "@pieroguerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pieroguerrero/cra-template/issues"
+  },
+  "homepage": "https://github.com/pieroguerrero/cra-template#readme"
+}
